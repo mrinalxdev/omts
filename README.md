@@ -1,11 +1,4 @@
-To install dependencies:
-```sh
-bun install
-```
+# Basic Neural Network Visualizer 
+This is a basic implementation with training and input fields
 
-To run:
-```sh
-bun run dev
-```
-
-open http://localhost:3000
+![banner](./frontend/public/banner.png)
